@@ -28,7 +28,7 @@ p {
 /* tugas baru */
 body {
     background-color: #bdfaff;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
