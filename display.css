@@ -1,0 +1,25 @@
+.box-M {
+    background-color: rgb(170, 0, 0);
+    width: fit-content;
+    color: white;
+}
+
+.box-P {
+    background-color: rgb(255, 192, 218);
+    width: fit-content;
+}
+
+.box-T {
+    background-color: rgb(160, 255, 255);
+    width: fit-content;
+}
+
+.box-N {
+    background-color: rgb(0, 0, 107);
+    width: fit-content;
+    color: white;
+}
+
+.container {
+    display: flex;
+}
